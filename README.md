@@ -88,7 +88,7 @@ Although a Gunn oscillator can be amplitude-modulated with the bias voltage, a s
 ## Precautions
 
 * Check the connections before switching on the kit.
-* Make all connections properly.
+* Make all connections properly
 * Take the observations carefully.
 
 ## Conclusion
